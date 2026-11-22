@@ -1,6 +1,6 @@
 # Afterimage
 
-**Play it: https://afterimage-game.vercel.app**
+**Play it: https://afterimage-room.vercel.app**
 
 **Status: Playable v1.0.** The full game loop, all seven kinds of change, scoring, a saved high score, generated lounge music and sound effects all work. Only early play-testing so far.
 
@@ -123,7 +123,7 @@ No third-party assets. All art is hand-written SVG in the source, the favicon is
 
 ## Deployment
 
-Hosted on Vercel at https://afterimage-game.vercel.app. Pushes to `main` auto-deploy through Vercel Git integration. Manual deploy: `vercel deploy --prod` from a linked checkout.
+Hosted on Vercel at https://afterimage-room.vercel.app. Pushes to `main` auto-deploy through Vercel Git integration. Manual deploy: `vercel deploy --prod` from a linked checkout.
 
 ## License
 
