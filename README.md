@@ -89,7 +89,7 @@ Handy URL options for testing: `?seed=12` fixes the random rooms, `?round=8` sta
 - The full loop: start, study, blink, a wrong tap (✕ and −3 s), Look again, a found change, the round summary, a timeout with missed rings and Show before / Show after, losing all three hearts, the game-over screen and the saved best score.
 - A near-miss tap about 7 px outside a target on the phone layout counted.
 - The music clock starts on the Start tap, the loop advances, and the mute button moves the master volume between 0 and 1 and is remembered after a reload.
-- The live Vercel URL returns 200 and plays (see "Deployment").
+- The live Vercel URL returns 200 and plays, checked on 2026-11-22 at desktop size and on the emulated phone (see "Deployment").
 
 **Never tested:** real phones and touch screens, Safari and Firefox, screen readers, and real players beyond early play-testing. The agent that built it could check that the music runs but **could not listen to it**, so the mix and the feel of the music have only been judged by Zach.
 
